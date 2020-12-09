@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56268142517",
+    "firebase_url": "https://social-network-app-23fda.firebaseio.com",
+    "project_id": "social-network-app-23fda",
+    "storage_bucket": "social-network-app-23fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56268142517:android:0c8225d3619f945bc6cbfc",
+        "android_client_info": {
+          "package_name": "com.divyesh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56268142517-glatmbaas68igf6fsp4rn6cbbtmr9b0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divyesh.chatapp",
+            "certificate_hash": "c11affbc2ff4b35af9355104994998c51158b4b9"
+          }
+        },
+        {
+          "client_id": "56268142517-bhpmde9a4lkc4lsfes4q375jpkp23dkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SqmsuOrflFiQhKmxv9XE31NWeRa5jXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56268142517-bhpmde9a4lkc4lsfes4q375jpkp23dkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
